@@ -12,7 +12,7 @@ Here’s how to enhance your README with **button-like elements** and **progress
 ```bash
 # Save, chmod, and run the SSH installation script with progress:
 echo "🚀 Downloading script..."
-curl -O https://raw.githubusercontent.com/OptiReduce/ansible/main/install_ssh.sh
+curl -O https://github.com/dfk007/ansible-OptiReduce/blob/55d38ce707ca73296a12799eacfd7caa980e004c/instal_ssh.sh
 
 echo "🔑 Making it executable..."
 chmod +x install_ssh.sh
