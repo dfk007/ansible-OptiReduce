@@ -39,7 +39,7 @@ sudo systemctl status ssh --no-pager
 #### Password-less Authentication
 **One-command setup with visual feedback:**
 
-[![Run SSH Key Setup](https://img.shields.io/badge/-Run_SSH_Key_Setup-2196F3?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/OptiReduce/ansible#password-less-authentication-script-)
+[![Run SSH Key Setup](https://img.shields.io/badge/-Run_SSH_Key_Setup-2196F3?style=for-the-badge&logo=linux&logoColor=white)](./ssh_setup.sh)
 
 ```bash
 # Example usage with progress tracking:
