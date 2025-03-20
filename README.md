@@ -1,9 +1,8 @@
-```markdown
 # OptiReduce Deployment 🚀
 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-11.7-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![Ansible](Ansible.svg)
+![CUDA](CUDA.svg)
+![License](./License_MIT.svg)
 
 This directory contains Ansible playbooks for deploying OptiReduce and its dependencies. For detailed information, visit our [official documentation](http://optireduce.github.io/).
 
@@ -213,7 +212,7 @@ This deployment code is part of the OptiReduce project. Refer to the [project pa
 2. **Emojis**: Used emojis in headers (e.g., 📥, 🔑, ⚙️) to improve scannability.
 3. **Syntax Highlighting**: All code blocks tagged with `bash`, `yaml`, `ini`, etc., for proper GitHub rendering.
 4. **Tables**: Structured deployment options and troubleshooting as tables.
-5. **Directory Structure**: Added comments to explain each file/folder.
+5. **Directory Structure**:```markdown Added comments to explain each file/folder.
 6. **Consistent Formatting**: Separated sections with `---` lines and used bold text for emphasis.
 7. **Links**: Hyperlinked documentation resources with emojis for clarity.
 
