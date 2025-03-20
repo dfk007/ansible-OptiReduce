@@ -1,7 +1,3 @@
-Here’s how to enhance your README with **button-like elements** and **progress visualization** for SSH script execution. While GitHub doesn’t support interactive buttons, this solution uses shields.io badges and script progress tracking:
-
----
-
 ### 🔑 Prerequisites
 
 #### 2. SSH Setup 🔐
