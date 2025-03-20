@@ -1,5 +1,3 @@
-Here’s the enhanced and color-formatted **README.md** optimized for GitHub with badges, emojis, syntax highlighting, and improved readability:
-
 ```markdown
 # OptiReduce Deployment 🚀
 
